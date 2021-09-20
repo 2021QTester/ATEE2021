@@ -10,19 +10,19 @@ For more technical details, please refer to our ICSE '21 paper.
 #### System Requirements
 
 - Python: 2.7
-- Android SDK: API 19 (make sure `adb` and `aapt` commands are available)
-- Linux: Ubuntu 16.04
+- Android SDK: API 19-28 (make sure `adb` and `aapt` commands are available)
+- Linux: Ubuntu 16.04-20.04
 
-The above versions of software have been tested in our experiments. We use Pyinstalller to bundle the Q-testing project into executable files which can be run in Linux.  You don't need to install the tool or any other python dependency; just download all the files will suffice. The application under test may be installed in a physical phone connected to a computer or in an Android virtual machine, of which API level 19 (4.4) and 28 (9.0) has been tested.
+The above versions of software have been tested in our experiments. We use Pyinstalller to bundle the ATEE project into executable files which can be run in Linux.  You don't need to install the tool or any other python dependency; just download all the files will suffice. The application under test may be installed in a physical phone connected to a computer or in an Android virtual machine, of which API level 19 (4.4) and 28 (9.0) has been tested.
 
 ## Usage
 
-The artifact of Q-testing is shared with OneDrive, and can be downloaded [Here](https://1drv.ms/u/s!AmfV7AZ50ULTiT36goqVTvFpbqoJ?e=5Pybc6)
+The artifact of ATEE is shared with OneDrive, and can be downloaded [Here](https://1drv.ms/u/s!AmfV7AZ50ULTiT36goqVTvFpbqoJ?e=5Pybc6)
 
 
 #### Settings
 
-Before running Q-testing, please create the **CONF.txt** as follow: 
+Before running ATEE, please create the **Config.txt** as follow: 
 
 ```
 [Path]
