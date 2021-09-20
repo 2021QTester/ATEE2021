@@ -40,7 +40,7 @@ MANIFEST_FILE = /Users/Your_Name/Projects/test/src/main/AndroidManifest.xml
 DEVICE_ID = emulator-5554
 # You may change TIME_LIMIT for debug.
 TIME_LIMIT = 3600
-# You can specify the launchable Activity, if ATEE cannot found one.
+# You can specify the launchable Activity, if ATEE cannot find one.
 ACTIVITY_NAME = 
 ```
 
