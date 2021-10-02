@@ -2,8 +2,6 @@
 
 ATEE2021 is an automated testing tool for Android applications. Based on Q-testing, ATEE2021 employs an action equivalence evaluation engine to find and merge redundant actions with similar functions by exploiting both GUI appearance and functionscation under test.
 
-For more technical details, please refer to our ICSE '21 paper.
-
 
 ## Installation
 
