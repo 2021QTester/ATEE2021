@@ -15,7 +15,7 @@ The above versions of software have been tested in our experiments. We use Pyins
 
 ## Usage
 
-The artifact of ATEE is shared with OneDrive, and can be downloaded [Here](https://1drv.ms/u/s!AmfV7AZ50ULTiT36goqVTvFpbqoJ?e=5Pybc6)
+The artifact of ATEE is shared with OneDrive, and can be downloaded [Here](https://1drv.ms/u/s!AmfV7AZ50ULTiT36goqVTvFpbqoJ?e=5Pybc6), along with our benchmark and experiment data.
 
 
 #### Settings
